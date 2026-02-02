@@ -5,7 +5,7 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-Fibli is a production-grade React Native application that demonstrates the integration of **LLMs (OpenAI)** and **Generative Image Models (Stability AI)** into a seamless mobile user experience. It focuses on performance, type safety, and scalable architecture.
+Fibli is a professionally architected React Native application that demonstrates the integration of **LLMs (OpenAI)** and **Generative Image Models (Stability AI)** into a seamless mobile user experience. It focuses on performance, type safety, and scalable architecture.
 
 ---
 
