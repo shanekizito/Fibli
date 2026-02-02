@@ -57,7 +57,7 @@ src/
 ### 2. Installation
 
 ```bash
-git clone https://github.com/kaur78i/fibli
+git clone https://github.com/shanekizito/Fibli
 cd fibli
 npm install
 ```

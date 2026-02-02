@@ -13,8 +13,10 @@
       "react-native-iap"
     ],
     "ios": {
-      "associatedDomains": ["applinks:fibli.app"],
-      "bundleIdentifier": "com.spgdev.fibli",
+      "associatedDomains": [
+        "applinks:fibli.app"
+      ],
+      "bundleIdentifier": "com.shanekizito.fibli",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
       }
@@ -28,7 +30,7 @@
       }
     },
     "android": {
-      "package": "com.spgdev.fibli",
+      "package": "com.shanekizito.fibli",
       "minSdkVersion": 21,
       "compileSdkVersion": 33,
       "targetSdkVersion": 33,
