@@ -1,4 +1,4 @@
-# Fibli 📚 -> ✨
+# Fibli 📚 
 
 > **AI-Powered Interactive Bedtime Stories**
 > *Where Generative AI meets Native Mobile Experiences.*
@@ -9,7 +9,7 @@ Fibli is a professionally architected React Native application that demonstrates
 
 ---
 
-## 📱 Technical Highlights for Recruiters
+## 📱 Technical Highlights
 
 This project showcases advanced mobile engineering capabilities:
 
